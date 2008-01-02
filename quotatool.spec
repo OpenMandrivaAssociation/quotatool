@@ -6,6 +6,7 @@ License:	GPL
 Group:		System/Configuration/Other
 URL:		http://quotatool.ekenberg.se/
 Source0:	http://quotatool.ekenberg.se/%{name}-%{version}.tar.gz
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Quotatool is a utility to set filesystem quotas from the commandline. Most
