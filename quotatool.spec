@@ -1,7 +1,7 @@
 Summary:	Utility for setting filesystem quotas from the command line
 Name:		quotatool
 Version:	1.4.12
-Release:	1
+Release:	2
 License:	GPL
 Group:		System/Configuration/Other
 URL:		http://quotatool.ekenberg.se/
