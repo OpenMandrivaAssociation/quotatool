@@ -4,7 +4,7 @@ Version:	1.4.12
 Release:	2
 License:	GPL
 Group:		System/Configuration/Other
-URL:		http://quotatool.ekenberg.se/
+URL:		https://quotatool.ekenberg.se/
 Source0:	http://quotatool.ekenberg.se/%{name}-%{version}.tar.gz
 
 %description
